@@ -1,0 +1,3 @@
+C:/Users/baris/Documents/Laptop_Technikum/zweitesSemester/Objektorientiertes Programmieren/Abschlussprüfung/Lösungen/von anderen/ruslan/2020/cmake-build-debug/CMakeFiles/2020.dir
+C:/Users/baris/Documents/Laptop_Technikum/zweitesSemester/Objektorientiertes Programmieren/Abschlussprüfung/Lösungen/von anderen/ruslan/2020/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/baris/Documents/Laptop_Technikum/zweitesSemester/Objektorientiertes Programmieren/Abschlussprüfung/Lösungen/von anderen/ruslan/2020/cmake-build-debug/CMakeFiles/rebuild_cache.dir

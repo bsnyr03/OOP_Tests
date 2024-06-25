@@ -1,0 +1,3 @@
+/Users/ruslan_kotliar/Library/CloudStorage/OneDrive-FHTechnikumWien/GitHub/2. Semester/OOP/exam/my solutions/2024_custom_1/cmake-build-debug/CMakeFiles/2024_custom_1.dir
+/Users/ruslan_kotliar/Library/CloudStorage/OneDrive-FHTechnikumWien/GitHub/2. Semester/OOP/exam/my solutions/2024_custom_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ruslan_kotliar/Library/CloudStorage/OneDrive-FHTechnikumWien/GitHub/2. Semester/OOP/exam/my solutions/2024_custom_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

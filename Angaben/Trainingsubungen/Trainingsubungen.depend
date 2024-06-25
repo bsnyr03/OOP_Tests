@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1687793117 source:c:\users\jack\documents\c\codeblock programms\hellowolrd\trainingsubungen\main.cpp
+	<iostream>
+	"Mensch.h"
+
+1686937338 source:c:\users\jack\documents\c\codeblock programms\hellowolrd\trainingsubungen\src\uebung.cpp
+	"Uebung.h"
+
+1687794379 c:\users\jack\documents\c\codeblock programms\hellowolrd\trainingsubungen\include\uebung.h
+
+1687794379 c:\users\jack\documents\c\codeblock programms\hellowolrd\trainingsubungen\include\mensch.h
+	<iostream>
+	"Uebung.h"
+	"Bankdruecken.h"
+	"Kniebeugen.h"
+
+1687794379 source:c:\users\jack\documents\c\codeblock programms\hellowolrd\trainingsubungen\src\bankdruecken.cpp
+	"Bankdruecken.h"
+
+1687794379 c:\users\jack\documents\c\codeblock programms\hellowolrd\trainingsubungen\include\bankdruecken.h
+	"Uebung.h"
+	"Mensch.h"
+
+1687794379 source:c:\users\jack\documents\c\codeblock programms\hellowolrd\trainingsubungen\src\mensch.cpp
+	"Mensch.h"
+
+1687794737 source:c:\users\jack\documents\c\codeblock programms\hellowolrd\trainingsubungen\src\kniebeugen.cpp
+	"Kniebeugen.h"
+
+1687792784 c:\users\jack\documents\c\codeblock programms\hellowolrd\trainingsubungen\include\kniebeugen.h
+	<Uebung.h>
+	"Mensch.h"
+
