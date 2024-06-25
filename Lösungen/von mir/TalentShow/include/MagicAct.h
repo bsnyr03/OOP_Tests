@@ -1,16 +1,20 @@
 #ifndef MAGICACT_H
 #define MAGICACT_H
 
+#include "AbstractAct.h"
 
-class MagicAct
+class MagicAct : public AbstractAct
 {
     public:
-        MagicAct();
-        virtual ~MagicAct();
+        MagicAct(int intensity): intensity(intensity){};
+        virtual ~MagicAct(){};
 
-    protected:
+        char getType () const override;
+
+        int getValue(const std::vector<AbstractAct*>&program, int index) const override;
 
     private:
+        int intensity;
 };
 
 #endif // MAGICACT_H

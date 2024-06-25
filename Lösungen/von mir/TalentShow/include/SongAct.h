@@ -1,16 +1,19 @@
 #ifndef SONGACT_H
 #define SONGACT_H
 
+#include "AbstractAct.h"
 
-class SongAct
+class SongAct : public AbstractAct
 {
     public:
-        SongAct();
+        SongAct(int intensity) : intensity(intensity){};
         virtual ~SongAct();
 
-    protected:
+        char getType() const override;
+        int getValue(const std::vector<AbstractAct*>&program, int index) const override;
 
     private:
+        int intensity;
 };
 
 #endif // SONGACT_H

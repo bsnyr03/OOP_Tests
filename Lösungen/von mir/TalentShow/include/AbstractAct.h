@@ -1,16 +1,29 @@
 #ifndef ABSTRACTACT_H
 #define ABSTRACTACT_H
 
+class AbstractAct;
+
 
 class AbstractAct
 {
-    public:
-        AbstractAct();
-        virtual ~AbstractAct();
+public:
+    AbstractAct(int intensity) : intensity(intensity) {};
+    virtual ~AbstractAct() {};
 
-    protected:
+    int getIntensity() const
+    {
+        return intensity;
+    }
 
-    private:
+
+    virtual char getType() const = 0;
+
+    virtual int getValue(const std::vector<AbstractAct*>&program, int index) const = 0;
+
+protected:
+    int intensity;
+
+private:
 };
 
 #endif // ABSTRACTACT_H
