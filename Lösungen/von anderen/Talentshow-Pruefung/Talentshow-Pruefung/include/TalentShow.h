@@ -1,5 +1,7 @@
 #ifndef TALENTSHOW_H
 #define TALENTSHOW_H
+
+
 #include <string>
 #include <vector>
 #include "AbstractAct.h"

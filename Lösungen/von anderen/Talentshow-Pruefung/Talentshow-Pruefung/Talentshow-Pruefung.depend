@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1719296948 source:c:\code_runner_coden\kevinc++\talentshow-pruefung\src\abstractact.cpp
+	"AbstractAct.h"
+
+1719297315 c:\code_runner_coden\kevinc++\talentshow-pruefung\include\abstractact.h
+	<iostream>
+	<string>
+	<exception>
+	<vector>
+	<stdexcept>
+
+1719301931 source:c:\code_runner_coden\kevinc++\talentshow-pruefung\src\magicact.cpp
+	"MagicAct.h"
+
+1719296903 c:\code_runner_coden\kevinc++\talentshow-pruefung\include\magicact.h
+	"AbstractAct.h"
+
+1719301931 source:c:\code_runner_coden\kevinc++\talentshow-pruefung\src\songact.cpp
+	"SongAct.h"
+
+1719299668 c:\code_runner_coden\kevinc++\talentshow-pruefung\include\songact.h
+	"AbstractAct.h"
+
+1719249819 source:c:\code_runner_coden\kevinc++\talentshow-pruefung\main.cpp
+	<iostream>
+	<TalentShow.h>
+
+1719295100 c:\code_runner_coden\kevinc++\talentshow-pruefung\include\talentshow.h
+	<string>
+	<vector>
+	"AbstractAct.h"
+	"MagicAct.h"
+	"SongAct.h"
+	"AcrobaticAct.h"
+
+1719300560 c:\code_runner_coden\kevinc++\talentshow-pruefung\include\acrobaticact.h
+	"AbstractAct.h"
+
+1719301931 source:c:\code_runner_coden\kevinc++\talentshow-pruefung\src\acrobaticact.cpp
+	"AcrobaticAct.h"
+
+1719301688 source:c:\code_runner_coden\kevinc++\talentshow-pruefung\src\talentshow.cpp
+	"TalentShow.h"
+
