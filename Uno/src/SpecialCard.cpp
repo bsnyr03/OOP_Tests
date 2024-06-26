@@ -5,7 +5,7 @@ SpecialCard::SpecialCard(const std::string& color, const std::string& special) :
 }
 
 void SpecialCard::printCard() const {
-    std::cout << "Karte: " << color << " - Spezialfaehigkeit" << special << "\n" ;
+    std::cout << "Karte: " << color << " - Spezialfaehigkeit " << special << "\n" ;
 }
 
 std::string SpecialCard::getSpecial() const

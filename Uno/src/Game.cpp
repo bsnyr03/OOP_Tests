@@ -21,8 +21,8 @@ void Game::createCards(){
 
     deck.push_back(std::make_shared<SpecialCard>("schwarz", "+4"));
     deck.push_back(std::make_shared<SpecialCard>("schwarz", "+4"));
-    deck.push_back(std::make_shared<SpecialCard>("schwarz", "andereFarbe"));
-    deck.push_back(std::make_shared<SpecialCard>("schwarz", "andereFarbe"));
+    deck.push_back(std::make_shared<SpecialCard>("schwarz", "Farbauswahl"));
+    deck.push_back(std::make_shared<SpecialCard>("schwarz", "Farbauswahl"));
 }
 
 void Game::shuffleCards(){
