@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1719406243 source:c:\users\baris\documents\laptop_technikum\zweitessemester\objektorientiertes programmieren\uno\main.cpp
+	<iostream>
+	<array>
+	"NumberCard.h"
+	"SpecialCard.h"
+	"Player.h"
+	"Game.h"
+
+1719402693 source:c:\users\baris\documents\laptop_technikum\zweitessemester\objektorientiertes programmieren\uno\src\card.cpp
+	"Card.h"
+
+1719402711 c:\users\baris\documents\laptop_technikum\zweitessemester\objektorientiertes programmieren\uno\include\card.h
+	<string>
+	<iostream>
+
+1719403051 c:\users\baris\documents\laptop_technikum\zweitessemester\objektorientiertes programmieren\uno\include\numbercard.h
+	"Card.h"
+
+1719405882 c:\users\baris\documents\laptop_technikum\zweitessemester\objektorientiertes programmieren\uno\include\specialcard.h
+	"Card.h"
+
+1719403887 c:\users\baris\documents\laptop_technikum\zweitessemester\objektorientiertes programmieren\uno\include\player.h
+	<string>
+	<vector>
+	<memory>
+	"Card.h"
+
+1719404780 c:\users\baris\documents\laptop_technikum\zweitessemester\objektorientiertes programmieren\uno\include\game.h
+	<vector>
+	<string>
+	<algorithm>
+	<random>
+	<memory>
+	<stdexcept>
+	"Card.h"
+	"NumberCard.h"
+	"SpecialCard.h"
+	"Player.h"
+
+1719403035 source:c:\users\baris\documents\laptop_technikum\zweitessemester\objektorientiertes programmieren\uno\src\numbercard.cpp
+	"NumberCard.h"
+
+1719406290 source:c:\users\baris\documents\laptop_technikum\zweitessemester\objektorientiertes programmieren\uno\src\game.cpp
+	"Game.h"
+
+1719405984 source:c:\users\baris\documents\laptop_technikum\zweitessemester\objektorientiertes programmieren\uno\src\specialcard.cpp
+	"SpecialCard.h"
+
+1719406379 source:c:\users\baris\documents\laptop_technikum\zweitessemester\objektorientiertes programmieren\uno\src\player.cpp
+	"Player.h"
+
