@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1719339842 source:c:\users\carto\documents\informatik\programmieren\tiles\main.cpp
+	<iostream>
+	"Floor.h"
+	<stdexcept>
+	<time.h>
+
+1719338869 source:c:\users\carto\documents\informatik\programmieren\tiles\src\redtile.cpp
+	"RedTile.h"
+
+1719338086 c:\users\carto\documents\informatik\programmieren\tiles\include\redtile.h
+	<Tile.h>
+
+1719339862 c:\users\carto\documents\informatik\programmieren\tiles\include\tile.h
+
+1719339875 source:c:\users\carto\documents\informatik\programmieren\tiles\src\tile.cpp
+	"Tile.h"
+	<iostream>
+
+1719338866 source:c:\users\carto\documents\informatik\programmieren\tiles\src\greentile.cpp
+	"GreenTile.h"
+
+1719338173 c:\users\carto\documents\informatik\programmieren\tiles\include\greentile.h
+	<Tile.h>
+
+1719338866 source:c:\users\carto\documents\informatik\programmieren\tiles\src\bluetile.cpp
+	"BlueTile.h"
+	<cstdlib>
+
+1719338315 c:\users\carto\documents\informatik\programmieren\tiles\include\bluetile.h
+	<Tile.h>
+
+1719339235 source:c:\users\carto\documents\informatik\programmieren\tiles\src\floor.cpp
+	"Floor.h"
+	"GreenTile.h"
+	"BlueTile.h"
+	<iostream>
+	<stdexcept>
+
+1719339235 c:\users\carto\documents\informatik\programmieren\tiles\include\floor.h
+	<array>
+	"Tile.h"
+
